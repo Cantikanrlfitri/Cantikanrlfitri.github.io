@@ -1,0 +1,16 @@
+body {
+    background-color: #d4c18dd4;
+}
+h1,h2 {
+    text-align: center;
+    color: black;
+}
+.desc {
+    color:blue;
+    margin-top: 0;
+}
+div {
+    text-align:center;
+}
+
+
